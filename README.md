@@ -13,9 +13,9 @@ Usecase / Workflow
 
 ----
 Endpunkte:
--create
--update
--delete
+- create
+- update
+- delete
 
 Sonstiges:
 - Api Doku
