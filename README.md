@@ -1,13 +1,14 @@
 # WHAT THE FEC? 
 Facebook Event Creator
+----
 
-Usecase:
-nur ein Verwaltungsbackend
-Yes Ticket legt ein Event an.
-Schiebt das per REST an FEC
-FEC macht magic und bereitet das ganze auf
-FEC schiebt die Daten nach Facebook
-Facebook erstellt ein neues Event
+Usecase / Workflow
+- nur ein Verwaltungsbackend
+- Yes Ticket legt ein Event an.
+- Schiebt das per REST an FEC
+- FEC macht magic und bereitet das ganze auf
+- FEC schiebt die Daten nach Facebook
+- Facebook erstellt ein neues Event
 
 
 ----
