@@ -12,9 +12,18 @@ Usecase / Workflow
 
 
 ----
-create, update, delete!
-Api Doku, Mini Website (1 Pager mit nem Donation Link zum für Server kosten und Bier und Kaffee)
+Endpunkte:
+-create
+-update
+-delete
 
+Sonstiges:
+- Api Doku
+- Mini Website
+- Readme wenn man das selber hosten will
+
+Extra:
+-Wir stellen den Service bereit auf nem Server für alle
 
 
 ----
