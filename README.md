@@ -23,7 +23,7 @@ Sonstiges:
 - Readme wenn man das selber hosten will
 
 Extra:
--Wir stellen den Service bereit auf nem Server für alle
+- Wir stellen den Service bereit auf nem Server für alle
 
 
 ----
